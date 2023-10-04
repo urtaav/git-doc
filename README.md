@@ -103,3 +103,6 @@
 10. Si tienes más tareas, crea una nueva rama y repite los pasos 3-6.
 
 # Nota: Asegúrate de utilizar nombres descriptivos para tus ramas y confirmaciones.
+
+
+https://www.conventionalcommits.org/es/v1.0.0/
